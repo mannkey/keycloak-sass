@@ -1,0 +1,199 @@
+.prices{
+    background-color: blue;
+    text-align: center;
+    color:white;
+    border-radius: 0 0 20% 20%;
+    background-color: rgb(30,30,110);
+    padding: 20%;
+    padding-bottom: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 40px;
+    margin-top: auto;
+    border-radius: 0 0 40% 40%;
+    width: 100%;
+    font-size: 30px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.free{
+    background-color: azure;
+    min-height: 300px;
+    min-width: 200x;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 1.5;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+
+    
+}
+.starter{
+    background-color: azure;
+    min-width: 300px;
+    min-height: 200px;
+    padding: 20px;
+    font-size: 30px;
+    line-height: 1.5;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.master{
+    background-color: blue;
+    min-height: 400px;
+    color: white;
+    min-width: 300px;
+    padding: 20px;
+    font-size: 30px;
+    line-height: 1.6;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.custom{
+    background-color: azure;
+   min-height: 500px;
+   min-width: 400px;
+   padding: 20px;
+   font-size: 30px;
+   line-height: 1.6;
+   border-top-left-radius: 10%;
+   border-top-right-radius: 10%;
+   border-bottom-left-radius: 10%;
+   border-bottom-right-radius: 10%;
+}
+.plan{
+    width: 100%;
+    border-collapse: collapse;
+    justify-content: space-between;
+    justify-content: left;
+}
+th{
+    padding: 100px;
+    text-align: right;
+    text-size-adjust: 100px;
+    font-size: 150%;
+
+}
+td{
+    padding: 10px;
+    padding-right: 20%;
+    font-size: large;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.int{
+    font-size: 26px;
+}
+.sec{
+    font-size: 26px;
+}
+.gov{
+    font-size: 26px;
+}
+.support{
+    background-color: blue;
+    background-color: rgb(30,30,110);
+}
+.c1{
+    color: white;
+}
+.c2{
+    color: black;
+    background-color: white;
+    min-height: 300px;
+    min-width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 1.6;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.c3{
+    color: black;
+    background-color: white;
+    min-height: 200px;
+    min-width: 100px;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 1.6;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 8%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 8%;
+}
+.b1{
+    color: blue;
+}
+.b2{
+    color:goldenrod;
+}
+.Time{
+    background-color: blue;
+    background-color: rgb(30,30,110);
+    color: white;
+    background-color: 100px;
+}
+.paid{
+    text-align: center;
+}
+.button{
+    color: blueviolet;
+}
+.in{
+    padding: 10px;
+    font-size: 60px;
+    background-color: aliceblue;
+}
+.in1{
+    padding: 10px;
+    font-size: 60px;
+    background-color: aliceblue;
+
+}
+.faq{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.f1a{
+    text-align: center;
+}
+.q1{
+    font-size: 30px;
+    padding: 10%;
+    line-height: 1.6;
+}
+.more{
+    
+    text-align: center;
+    font-size: 40px;
+    background-color: blue;
+    background-color: rgb(35, 19, 139);
+    color: white;
+    align-items: center;
+}
+.m1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.but{
+   
+    align-items: center;
+    padding: 10px;
+    padding-left: 20px;
+}
